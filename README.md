@@ -1,8 +1,11 @@
 # Pizza Sales Analysis
 
 This project involves a comprehensive analysis of pizza sales data using **SQL** for data manipulation and **MySQL** as the database software. The dataset includes the following files: **pizzas.csv**, **pizza_types.csv**, **orders.csv**, and **order_details.csv**, containing information about pizzas, orders, and sales. The analysis covers various aspects, including identifying the best and worst-selling pizzas, determining total revenue generated, calculating average revenue, and examining sales trends on various time scales.
+
 The data is sourced from the Kaggle page: [Pizza Sales Data](https://www.kaggle.com/datasets/kamrulislamanik1998/pizza-sales-data).
+
 ---
+
 
 ## Dataset Overview
 
@@ -79,4 +82,5 @@ The **order_details.csv** file includes the following columns:
    ```bash
    git clone https://github.com/yourusername/pizza-sales-analysis.git
 ## Schema Diagram
-![Pizza2](https://github.com/user-attachments/assets/cd60f5a9-d91b-4fb1-a10f-e28350fb01e8)
+![Pizza2](https://github.com/user-attachments/assets/2b3a0f9d-15f8-49d8-af3f-41723c939d05)
+
