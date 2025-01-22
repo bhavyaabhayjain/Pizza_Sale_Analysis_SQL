@@ -93,7 +93,8 @@ The dataset includes the following files:
 
 ## Schema Diagram
 
-![Pizza2](https://github.com/user-attachments/assets/cc6378ed-44ea-4636-bcbc-2ef18fdaf909)
+![Pizza2](https://github.com/user-attachments/assets/2e9492c2-246c-4284-929f-9d1612d20e8c)
+
 
 
 ---
