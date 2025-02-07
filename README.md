@@ -102,13 +102,6 @@ The dataset includes the following files:
 ## Contribution
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and create a pull request with your changes.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## Acknowledgments
